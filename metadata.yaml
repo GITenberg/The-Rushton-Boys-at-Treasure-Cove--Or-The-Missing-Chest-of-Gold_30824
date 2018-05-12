@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34843'
     url: http://www.gutenberg.org/2009/agents/34843
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30824#The-Rushton-Boys-at-Treasure-Cove--Or-The-Missing-Chest-of-Gold
 gutenberg_issued: '2010-01-01'
 gutenberg_type: Text
 identifiers:
